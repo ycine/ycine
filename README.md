@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-**ycine/ycine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- **ycine/ycine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 
  Hi I`m Marcin, i started learning programming and other IT technologies at my studies😄 but mostly, i learned by myself.
