@@ -6,9 +6,9 @@
 
  Hi I`m Marcin, i started learning programming and other IT technologies at my studies😄 but mostly, i learned by myself.
  
- My main known language is Python <img src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" >
+ My main known language is Python <img src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" height=10% width=10% >
 
- I learned CSS  <img src="https://cdn-icons-png.flaticon.com/512/732/732190.png" >and HTML <img src="https://cdn-icons-png.flaticon.com/512/174/174854.png" > and JavaScript  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" >at some point.
+ I learned CSS  <img src="https://cdn-icons-png.flaticon.com/512/732/732190.png" height=10% width=10%>and HTML <img src="https://cdn-icons-png.flaticon.com/512/174/174854.png" height=10% width=10%> and JavaScript  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" height=10% width=10%>at some point.
  
  I learning/i would learn Java Script more because i`m sure this take my web application made in Flask or Django to the next level.
  
