@@ -12,5 +12,7 @@
  
 Actually I learning Java Script more and <img src="https://repository-images.githubusercontent.com/37153337/9d0a6780-394a-11eb-9fd1-6296a684b124" height=7% width=7%> because i`m sure this take my web application made in Flask or Django to the next level.
 
-Generally speaking i learn technologies which i need for given project, all above it`s just top of the <img src="https://static.sciencelearn.org.nz/images/images/000/003/449/full/Tip_of_the_Iceberg_only_RIGHT_image_547x400_test.jpg?1674613575" height=10% width=10%>
+Generally speaking i learn technologies which i need for given project, all above it`s just top of the :
+
+<img src="https://static.sciencelearn.org.nz/images/images/000/003/449/full/Tip_of_the_Iceberg_only_RIGHT_image_547x400_test.jpg?1674613575" height=20% width=20%>
  
