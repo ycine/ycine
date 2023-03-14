@@ -10,5 +10,5 @@
 
  I learned CSS  <img src="https://cdn-icons-png.flaticon.com/512/732/732190.png" height=3% width=3%>and HTML <img src="https://cdn-icons-png.flaticon.com/512/174/174854.png" height=3% width=3%> and JavaScript  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" height=3% width=3%> at kind`a basic level 
  
- I learning/i would learn Java Script more because i`m sure this take my web application made in Flask or Django to the next level.
+ I learning Java Script more because i`m sure this take my web application made in Flask or Django to the next level.
  
